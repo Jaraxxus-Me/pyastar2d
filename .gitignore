@@ -4,3 +4,6 @@
 *.pyc
 *.png
 *.cache
+*.o
+*.txt
+*.egg-info
